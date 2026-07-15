@@ -2,13 +2,13 @@
 
 ## 🛡️ Cybersecurity Student | SOC Analyst Aspirant
 
-I am a final-year B.Tech student passionate about Cybersecurity, SOC Operations, Threat Hunting, Incident Response, Network Security, and AI Security. I enjoy building real-world security projects and continuously improving my technical skills.
+I am a Graduate B.Tech student passionate about Cybersecurity, SOC Operations, Threat Hunting, Incident Response, Network Security, and AI Security. I enjoy building real-world security projects and continuously improving my technical skills.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Final Year B.Tech (Electronics & Telecommunications)
+- 🎓 Graduate B.Tech (Electronics & Telecommunications)
 - 🛡️ Interested in SOC, Blue Team & AI Security
 - 🌱 Currently learning Python, SIEM, Linux and Cloud Security
 - 💻 Building practical cybersecurity projects
