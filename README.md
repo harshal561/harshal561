@@ -32,7 +32,7 @@ I am a Graduate B.Tech student passionate about Cybersecurity, SOC Operations, T
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Working Project
 
 ### 🔒 LLM-Guard
 
