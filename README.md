@@ -69,7 +69,7 @@ Repository:
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/harshal561
-- LinkedIn: (Add your LinkedIn profile here)
+- LinkedIn: https://www.linkedin.com/in/harshal-ghatbandhe-431809277
 
 ---
 
