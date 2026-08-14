@@ -54,6 +54,28 @@ Repository:
 
 ---
 
+## 🛡️ Project Completed
+
+### 🔍 CVE Analysis Lab — Vulnerability Research & Detection Engineeringg
+
+Vulnerability Research & CVE Analysis Lab — end-to-end research on 3 actively exploited 2026 CVEs, with CVSS scoring, IOCs, and Splunk detection logic
+
+## Features
+
+- CVE Research & Analysis
+- NVD & Vendor Advisory Analysis
+- CVSS Severity Assessment
+- Affected Version Identification
+- Vulnerability Impact Analysis
+- Exploitability Assessment
+- System & Application Log Correlation
+- IOC Identification & Analysis
+- Risk-Based Vulnerability Prioritization
+- Remediation & Patch Recommendations
+- Vulnerability Reporting & Documentation
+
+  Repository:
+
 ## 📚 Currently Learning
 
 - SOC Operations
