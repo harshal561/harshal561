@@ -1,8 +1,8 @@
 # Hi 👋, I'm Harshal Ghatbandhe
 
-## 🛡️ Cybersecurity Student | SOC Analyst Aspirant
+## 🛡️ Cybersecurity Engineer | SOC Analyst and Cybersecurity Analyst 
 
-I am a Graduate B.Tech student passionate about Cybersecurity, SOC Operations, Threat Hunting, Incident Response, Network Security, and AI Security. I enjoy building real-world security projects and continuously improving my technical skills.
+I am a Graduate B.Tech student passionate about Cybersecurity, SOC Operations, Vulnerability Assessment, Vulnerability Management, Threat Hunting, Incident Response, Network Security, and AI Security. I enjoy building real-world security projects and continuously improving my technical skills.
 
 ---
 
@@ -29,6 +29,7 @@ I am a Graduate B.Tech student passionate about Cybersecurity, SOC Operations, T
 - AI Security
 - Prompt Injection Detection
 - SOC Analyst
+- Vulnerability Assessment
 
 ---
 
