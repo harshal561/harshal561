@@ -41,14 +41,14 @@ Built a home SOC lab using Splunk, Sysmon, Kali Linux, and Windows to perform SI
 
 ### Features
 
-- • 📊 SIEM Monitoring
-- • 🚨 Alert Detection
-- • 🔍 Log Analysis
-- • 🎯 IOC Investigation
-- • 🛡️ Threat Detection
-- • 🧪 Attack Simulation
-- • 📈 Security Dashboards
-- • 🔎 Incident Investigation
+- 📊 SIEM Monitoring
+- 🚨 Alert Detection
+- 🔍 Log Analysis
+- 🎯 IOC Investigation
+- 🛡️ Threat Detection
+- 🧪 Attack Simulation
+- 📈 Security Dashboards
+- 🔎 Incident Investigation
 
 
 ## 🛡️ Project Completed
