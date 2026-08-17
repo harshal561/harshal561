@@ -50,6 +50,9 @@ Built a home SOC lab using Splunk, Sysmon, Kali Linux, and Windows to perform SI
 - 📈 Security Dashboards
 - 🔎 Incident Investigation
 
+Repository:
+👉 https://github.com/harshal561/SOC-Threat-Detection-Lab  
+
 
 ## 🛡️ Project Completed
 
