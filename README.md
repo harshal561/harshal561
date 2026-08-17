@@ -41,16 +41,14 @@ Built a home SOC lab using Splunk, Sysmon, Kali Linux, and Windows to perform SI
 
 ### Features
 
-🖥️ SIEM Monitoring — Centralized security event monitoring using Splunk.
-📊 Security Dashboards — Created Splunk dashboards to visualize and monitor security activities.
-🚨 Alert Detection — Developed alert rules to identify suspicious activities.
-🔍 Log Analysis — Integrated Sysmon logs with Splunk for endpoint event investigation.
-🎯 IOC Investigation — Identified and analyzed Indicators of Compromise from security events.
-🛡️ Threat Detection — Detected simulated malicious activities using security logs.
-🧪 Attack Simulation — Simulated port scanning and brute-force login attempts using Kali Linux.
-🔎 Incident Investigation — Investigated detected activities to understand attack behavior and security impact.
-🪟 Windows Security Monitoring — Monitored Windows endpoint activity through Sysmon telemetry.
-🐧 Kali Linux Testing — Used Kali Linux to generate controlled security events for SOC investigation.
+📊 SIEM Monitoring
+🚨 Alert Detection
+🔍 Log Analysis
+🎯 IOC Investigation
+🛡️ Threat Detection
+🧪 Attack Simulation
+📈 Security Dashboards
+🔎 Incident Investigation
 
 
 ## 🛡️ Project Completed
